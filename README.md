@@ -1,4 +1,4 @@
-# Visão computacional para reconhecimnhento de emoções
+# Visão computacional para reconhecimento de emoções
 
 Notebooks desenvolvidos no curso promovido pela [Qualifact](https://qualifacti.facti.com.br/), para estudo da visão computacional aplicada ao reconhecimento de emoções.  
 
